@@ -1,0 +1,2 @@
+let &colorcolumn=join(range(121, 121),",")
+hi ColorColumn guibg=darkgrey
