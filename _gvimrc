@@ -1,2 +1,4 @@
 let &colorcolumn=join(range(121, 121),",")
 hi ColorColumn guibg=darkgrey
+set guicursor=n:blinkwait700-blinkon1000-blinkoff1000
+set guicursor=i-ci:ver25-blinkwait700-blinkon1000-blinkoff1000
