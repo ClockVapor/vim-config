@@ -13,8 +13,8 @@ set fileencoding=utf-8
 filetype plugin on
 filetype on
 
+color torte
 syntax on
-color moon 
 set guifont=Consolas:h11
 set backspace=indent,eol,start
 au BufNewFile,BufRead *.rs set filetype=rust
