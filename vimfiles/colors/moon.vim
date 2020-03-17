@@ -21,7 +21,7 @@ syntax reset
 let g:colors_name = "moon"
 
 if has("gui_running")
-	fun <SID>X(group, fg, bg, attr)
+	fun! <SID>X(group, fg, bg, attr)
 		if a:fg != ""
 			exec "hi " . a:group . " guifg=#" . a:fg
 		endif

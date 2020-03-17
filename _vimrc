@@ -13,7 +13,7 @@ set fileencoding=utf-8
 filetype plugin on
 filetype on
 
-color torte
+color moon
 syntax on
 set guifont=Consolas:h11
 set backspace=indent,eol,start
