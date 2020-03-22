@@ -9,6 +9,8 @@ set expandtab
 
 set encoding=utf-8
 set fileencoding=utf-8
+set formatoptions=l
+set lbr
 
 filetype plugin on
 filetype on
