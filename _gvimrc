@@ -1,3 +1,5 @@
+set lines=30
+set columns=124
 let &colorcolumn=join(range(121, 121),",")
 hi ColorColumn guibg=darkgrey
 set guicursor=n:blinkwait700-blinkon1000-blinkoff1000
